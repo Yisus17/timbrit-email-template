@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,700');
+
+.email-background{
+    background: #46448e;
+    padding: 10px;
+}
+
+.email-container{
+  max-width: 600px;
+  background:#ffffff;
+  font-family: 'Montserrat',Helvetica, sans-serif;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+.content{
+    padding: 20px 10%;
+}
+img{
+    max-width: 100%;
+}
+
+p{
+    margin: 20px;
+    font-size: 20px;
+    text-align: justify;
+    color: #959595;
+}
+
+.cta{
+    text-align: center;
+    margin: 30px;
+}
+
+.cta img{
+    width: 50%;
+}
